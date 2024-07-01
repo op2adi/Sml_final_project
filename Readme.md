@@ -8,7 +8,7 @@
 
 - `traffic.csv`: This dataset likely contains traffic-related information. You can see 
 this image
-https://imagetolink.com/ib/KU3RW0TBkW
+- see temppng.png 
 
 ## Installation and Setup
 

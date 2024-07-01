@@ -2,11 +2,13 @@
 
 ## Overview
 
-This repository contains files related to a machine learning or statistical modeling project. Unfortunately, there isn't a detailed description provided, but based on the contents, it seems to involve analyzing data from the `traffic.csv` file.
+- This repository contains files related to a machine learning or statistical modeling project. Thsi project Aims to manage traffic signals and optimize them efficiently to reduce the traffic jam percentage. The main goal of this repository is to be able to optimize the traffic jam. Todays major issue in this field is not optimizing time based on cars,days etc so this project optimizes this..
 
 ## Contents
 
-- `traffic.csv`: This dataset likely contains traffic-related information. You may want to provide details about its columns, format, and any preprocessing steps you've taken.
+- `traffic.csv`: This dataset likely contains traffic-related information. You can see 
+this image
+https://imagetolink.com/ib/KU3RW0TBkW
 
 ## Installation and Setup
 
